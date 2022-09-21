@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\bin\Debug\Pattern.Strategy.exe.config
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\bin\Debug\Pattern.Strategy.exe
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\bin\Debug\Pattern.Strategy.pdb
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\obj\Debug\Pattern.Strategy.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\obj\Debug\Pattern.Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\obj\Debug\Pattern.Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\obj\Debug\Pattern.Strategy.exe
+C:\Users\Administrator\source\repos\Basics\Pattern.Strategy\obj\Debug\Pattern.Strategy.pdb

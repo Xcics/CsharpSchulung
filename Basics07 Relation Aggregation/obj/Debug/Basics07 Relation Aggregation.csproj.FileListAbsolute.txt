@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\obj\Debug\Basics07 Relation Aggregation.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\obj\Debug\Basics07 Relation Aggregation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\obj\Debug\Basics07 Relation Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\bin\Debug\Basics07 Relation Aggregation.exe.config
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\bin\Debug\Basics07 Relation Aggregation.exe
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\bin\Debug\Basics07 Relation Aggregation.pdb
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\obj\Debug\Basics07 Relation Aggregation.exe
+C:\Users\Administrator\source\repos\Basics\Basics07 Relation Aggregation\obj\Debug\Basics07 Relation Aggregation.pdb

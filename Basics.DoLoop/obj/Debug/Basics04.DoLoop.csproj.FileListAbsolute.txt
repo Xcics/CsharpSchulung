@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\bin\Debug\Jarai.CSharp.Basics.DoLoop.exe.config
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\bin\Debug\Jarai.CSharp.Basics.DoLoop.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\bin\Debug\Jarai.CSharp.Basics.DoLoop.pdb
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\obj\Debug\Basics04.DoLoop.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\obj\Debug\Basics04.DoLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\obj\Debug\Basics04.DoLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\obj\Debug\Jarai.CSharp.Basics.DoLoop.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.DoLoop\obj\Debug\Jarai.CSharp.Basics.DoLoop.pdb

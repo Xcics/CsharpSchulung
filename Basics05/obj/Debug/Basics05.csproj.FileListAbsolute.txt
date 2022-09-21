@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Basics\Basics05\bin\Debug\Basics05.exe.config
+C:\Users\Administrator\source\repos\Basics\Basics05\bin\Debug\Basics05.exe
+C:\Users\Administrator\source\repos\Basics\Basics05\bin\Debug\Basics05.pdb
+C:\Users\Administrator\source\repos\Basics\Basics05\obj\Debug\Basics05.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Basics\Basics05\obj\Debug\Basics05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Basics\Basics05\obj\Debug\Basics05.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Basics\Basics05\obj\Debug\Basics05.exe
+C:\Users\Administrator\source\repos\Basics\Basics05\obj\Debug\Basics05.pdb

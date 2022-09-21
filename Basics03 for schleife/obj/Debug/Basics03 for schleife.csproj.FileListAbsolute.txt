@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\obj\Debug\Basics03 for schleife.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\obj\Debug\Basics03 for schleife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\obj\Debug\Basics03 for schleife.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\bin\Debug\Basics03 for schleife.exe.config
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\bin\Debug\Basics03 for schleife.exe
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\bin\Debug\Basics03 for schleife.pdb
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\obj\Debug\Basics03 for schleife.exe
+C:\Users\Administrator\source\repos\Basics\Basics03 for schleife\obj\Debug\Basics03 for schleife.pdb

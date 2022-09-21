@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\obj\Debug\Basics 06 Arrays.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\obj\Debug\Basics 06 Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\obj\Debug\Basics 06 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\bin\Debug\Basics 06 Arrays.exe.config
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\bin\Debug\Basics 06 Arrays.exe
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\bin\Debug\Basics 06 Arrays.pdb
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\obj\Debug\Basics 06 Arrays.exe
+C:\Users\Administrator\source\repos\Basics\Basics 06 Arrays\obj\Debug\Basics 06 Arrays.pdb
