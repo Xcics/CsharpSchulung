@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\bin\Debug\Jarai.CSharp.Basics.Exceptions.exe.config
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\bin\Debug\Jarai.CSharp.Basics.Exceptions.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\bin\Debug\Jarai.CSharp.Basics.Exceptions.pdb
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\obj\Debug\Basics06.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\obj\Debug\Basics06.Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\obj\Debug\Basics06.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\obj\Debug\Jarai.CSharp.Basics.Exceptions.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Exceptions\obj\Debug\Jarai.CSharp.Basics.Exceptions.pdb

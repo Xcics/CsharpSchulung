@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\bin\Debug\Jarai.CSharp.Basics.Conditionals.exe.config
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\bin\Debug\Jarai.CSharp.Basics.Conditionals.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\bin\Debug\Jarai.CSharp.Basics.Conditionals.pdb
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\obj\Debug\Basics02.Conditionals.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\obj\Debug\Basics02.Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\obj\Debug\Basics02.Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\obj\Debug\Jarai.CSharp.Basics.Conditionals.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Conditionals\obj\Debug\Jarai.CSharp.Basics.Conditionals.pdb
