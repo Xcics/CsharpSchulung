@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe.config
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.pdb
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.exe
+C:\Users\Administrator\source\repos\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.pdb
