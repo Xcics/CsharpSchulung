@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\bin\Debug\Jarai.CSharp.Basics.Array.exe.config
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\bin\Debug\Jarai.CSharp.Basics.Array.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\bin\Debug\Jarai.CSharp.Basics.Array.pdb
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\obj\Debug\Basics07.Array.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\obj\Debug\Basics07.Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\obj\Debug\Basics07.Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\obj\Debug\Jarai.CSharp.Basics.Array.exe
+C:\Users\Administrator\Source\Repos\Jarai.CSharp.Basics\Basics.Array\obj\Debug\Jarai.CSharp.Basics.Array.pdb
